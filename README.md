@@ -8,11 +8,9 @@ I'm an **MSE student at the University of Pennsylvania**, an **AI engineer at Wh
 
 ## Open source
 
-| Project | What it's for |
-| --- | --- |
-| **[Anima Brain](https://github.com/spearsheep/anima-brain)** | A Python toolkit for companion agents: persistent memory, character identity, emotional continuity, and multimodal interaction. Python SDK, MCP integrations, and an optional web studio. |
-| **[APT](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)** | LLM agents that turn text and visual instructions into architectural plans and executable Minecraft structures. Research presented at the **AAAI 2025 LM4Plan Workshop**. |
-| **[Cinematic Production Director](https://github.com/spearsheep/cinematic-production-director)** | A reusable agent skill for developing screenplays, storyboards, and visual assets while maintaining character and scene continuity. |
+### [Anima Brain](https://github.com/spearsheep/anima-brain)
+
+A Python toolkit for companion agents: persistent memory, character identity, emotional continuity, and multimodal interaction. Python SDK, MCP integrations, and an optional web studio.
 
 **New here? Start with [Anima Brain](https://github.com/spearsheep/anima-brain#quickstart).** It adapts selected designs behind Anima Lab into an independent, MIT-licensed Python framework. Anima Lab has reached **1,000+ users**; the framework is a separate open-source project.
 

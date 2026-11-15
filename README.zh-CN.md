@@ -6,13 +6,11 @@
 
 我目前在**宾夕法尼亚大学读 MSE**，在 **Wharton Research Data Services（WRDS）**做 AI 工程，也是 **[Anima Lab](https://anima-lab.io/)** 的创始人。我关心的不只是模型能答对多少题，也包括智能体能否记住上下文、理解不同人的需求，以及真正融入日常使用。
 
-## 可以从这些项目开始
+## 开源项目
 
-| 项目 | 做什么 |
-| --- | --- |
-| **[Anima Brain](https://github.com/spearsheep/anima-brain)** | 给开发者使用的 AI 陪伴大脑：长期记忆、角色设定、情绪连续性和多模态交互。提供 Python SDK、MCP 接入和可选的聊天展示页。 |
-| **[APT](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)** | 让 LLM 智能体把文字、图片里的建筑要求转成规划，再到 Minecraft 中实际搭建。发表于 **AAAI 2025 LM4Plan Workshop**。 |
-| **[Cinematic Production Director](https://github.com/spearsheep/cinematic-production-director)** | 用于剧本、分镜和视觉素材制作的智能体技能，重点处理人物、场景与镜头之间的连续性。 |
+### [Anima Brain](https://github.com/spearsheep/anima-brain)
+
+给开发者使用的 AI 陪伴大脑：长期记忆、角色设定、情绪连续性和多模态交互。提供 Python SDK、MCP 接入和可选的聊天展示页。
 
 **第一次来，可以先看 [Anima Brain 的中文介绍](https://github.com/spearsheep/anima-brain/blob/main/README.zh-CN.md)。** 它将 Anima Lab 背后的一部分记忆与大脑设计重新实现为独立的 Python 框架，代码采用 MIT 许可。Anima Lab 已积累 **1,000+ 用户**；这个用户数属于应用产品，不是新开源框架的使用人数。
 
